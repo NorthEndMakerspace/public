@@ -9,7 +9,7 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 Cloning a repository
-![alt text](https://github.com/NorthEndMakerspace/public/cloning.png. "How to clone a repo")
+![alt text](https://github.com/NorthEndMakerspace/public/blob/main/cloning.png. "How to clone a repo")
 
 
 git clone git@github.com:NorthEndMakerspace/public.git
